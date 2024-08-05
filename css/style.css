@@ -1,0 +1,323 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin: 0px;
+	padding: 0;
+	font-family: "Quicksand", sans-serif;
+}
+header {
+	width: 97%;
+	height: 19%;
+	position: absolute;
+	margin-left: 1%
+}
+.logo {
+	width: 15%;
+	height: 67%;
+	float: left;
+	background-image: url(../img/travelturkey_logo_jpg_small.png);
+	margin-top: 2.4%;
+	background-repeat: no-repeat;
+	margin-left: 2%;
+	background-size: 46% 52%;
+}
+.border {
+	width: 91%;
+	height: 0.1%;
+	background-color: #999999;
+	position: absolute;
+	margin-top: 2.4%;
+	margin-left: 3%;
+}
+.icon {
+	width: 14%;
+	height: 24%;
+	float: right;
+	margin-right: 3%;
+}
+.icons {
+	width: 14%;
+	height: 55%;
+	float: left;
+	margin-left: 5px;
+	padding: 0;
+}
+#middleText {
+	width: 97%;
+	height: 37%;
+	position: absolute;
+	margin-top: 9.4%;
+	margin-left: 1%
+}
+.images {
+	width: 97%;
+	height: 86%;
+	position: absolute;
+	margin-top: 28%;
+	margin-left: 1%;
+}
+.boximage {
+	width: 31%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-image: url(../img/Istanbul-1.jpg);
+	background-size: 430px 550px;
+	margin: 0 0 0 2%;
+	float: left;
+	background-position: center;
+}
+.boximage1 {
+	width: 31%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-image: url(../img/cappadocia-1.jpg);
+	margin: 0 0 0 2%;
+	background-size: 430px 550px;
+	float: left;
+	background-position: center;
+}
+.boximage2 {
+	width: 31%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-image: url(../img/ephesu-1.jpg);
+	background-size: 430px 550px;
+	margin: 0 0 0 2%;
+	float: left;
+	background-position: center;
+}
+.boxTop {
+	width: 250px;
+	height: auto;
+	position: relative;
+	margin-top: 115%;
+	border-bottom: 60px solid #d31e3d;
+	border-right: 25px solid transparent;
+	color: #575757;
+	opacity: 0.9;
+	clear: both;
+}
+.middleTop {
+	width: 94%;
+	margin: 71% 0 0 2%;
+	position: absolute;
+	height: 100%;
+}
+.middleTopheader {
+	width: 66%;
+	height: 3%;
+	clear: both;
+	margin: 1%;
+}
+.middleTopleft {
+	width: 0.2%;
+	height: 4.5%;
+	background-color: #CC1F22;
+	float: left;
+	position: absolute
+}
+.middleleft {
+	width: 40%;
+	height: 83%;
+	float: left;
+	clear: both;
+	margin: 1%;
+}
+.leftimage {
+	width: 100%;
+	height: 42%;
+}
+.middleright {
+	width: 55%;
+	height: 83%;
+	float: left;
+	margin: 1%;
+}
+.middlerightbox {
+	width: 96%;
+	height: 18%;
+	float: left;
+	margin: 0.5%;
+}
+.middlerightboximg {
+	width: 19%;
+	background-image: url(../img/Turkey-Geographical-Structure.jpg);
+	height: 93%;
+	background-repeat: no-repeat;
+	float: left;
+	margin: 0.5%;
+}
+.middleBottom {
+	width: 94%;
+	position: absolute;
+	margin-top: 125%;
+	height: 137%;
+	background-color: #f6f6f6;
+	clear: both;
+	margin-left: 2%;
+}
+.middleBottomleft {
+	width: 74%;
+	height: 85%;
+	float: left;
+	margin: 1%;
+}
+.boxBottom {
+	width: 270px;
+	height: 350px;
+	float: left;
+	margin: 2%;
+	background-image: url(../img/1.jpg);
+	background-repeat: no-repeat;
+	background-size: 270px 350px;
+}
+.boxBottom1 {
+	width: 270px;
+	height: 350px;
+	float: left;
+	margin: 2%;
+	background-image: url(../img/Historical-Places-at-Sultanahmet-Square.jpg);
+	background-repeat: no-repeat;
+	background-size: 270px 350px;
+}
+.boxBottom2 {
+	width: 270px;
+	height: 350px;
+	float: left;
+	margin: 2%;
+	background-image: url(../img/Best-Palaces-and-Pavilions-in-Istanbul.jpg);
+	background-repeat: no-repeat;
+	background-size: 270px 350px;
+}
+.boxBottom3 {
+	width: 270px;
+	height: 350px;
+	float: left;
+	margin: 2%;
+	background-image: url(../img/Things-to-know-before-travelling-to-Istanbul.jpg);
+	background-repeat: no-repeat;
+	background-size: 270px 350px;
+}
+.boxBottom4 {
+	width: 270px;
+	height: 350px;
+	float: left;
+	margin: 2%;
+	background-image: url(../img/Top-Things-to-do-in-Istanbul.jpg);
+	background-repeat: no-repeat;
+	background-size: 270px 350px;
+}
+.boxBottom5 {
+	width: 270px;
+	height: 350px;
+	float: left;
+	margin: 2%;
+	background-image: url(../img/Istanbul-Bosphorus-Strait-m.jpg);
+	background-repeat: no-repeat;
+	background-size: 270px 350px;
+}
+.middleBottomright {
+	width: 22%;
+	height: 85%;
+	float: left;
+	margin: 1%;
+}
+.middleBottomheader {
+	width: 97%;
+	margin: 1%;
+	height: 5%;
+	float: left;
+}
+.footerimg {
+	width: 94%;
+	position: absolute;
+	margin-top: 192%;
+	margin-left: 2%;
+	height: 35%;
+}
+.footerBox {
+	width: 20%;
+	height: 80%;
+	float: left;
+	margin: 2% 0 0 4%;
+	background-image: url(../img/istanbul-bosphorus.jpg);
+	background-repeat: no-repeat;
+	background-size: 300px 200px;
+}
+.footerBox1 {
+	width: 20%;
+	height: 80%;
+	float: left;
+	margin: 2% 0 0 4%;
+	background-image: url(../img/istanbul-old-city-map.jpg);
+	background-repeat: no-repeat;
+	background-size: 300px 200px;
+}
+.footerBox2 {
+	width: 20%;
+	height: 80%;
+	float: left;
+	margin: 2% 0 0 4%;
+	background-repeat: no-repeat;
+	background-size: 300px 200px;
+	background-image: url(../img/Istanbul-Metro-and-Tram-Map.jpg);
+}
+.footerBox3 {
+	width: 20%;
+	height: 80%;
+	float: left;
+	margin: 2% 0 0 4%;
+	background-repeat: no-repeat;
+	background-size: 300px 200px;
+	background-image: url(../img/Istanbul-Tourist-Attraction-Maps.jpg);
+}
+.middleTop1 {
+	width: 94%;
+	margin: 209% 0 0 2%;
+	position: absolute;
+	height: 113%;
+}
+.middleBottom1 {
+	width: 94%;
+	position: absolute;
+	margin-top: 264%;
+	height: 137%;
+	background-color: #f6f6f6;
+	clear: both;
+	margin-left: 2%;
+}
+.footerTop {
+	width: 100%;
+	height: 20%;
+	position: absolute;
+	margin-top: 64%;
+}
+.middleTopleft1 {
+	width: 0.2%;
+	height: 13.5%;
+	background-color: #CC1F22;
+	float: left;
+	position: absolute
+}
+.liBox {
+	width: 26%;
+	height: 81%;
+	float: left;
+	margin: 2%;
+}
+.middleTopheader1 {
+	width: 66%;
+	height: 18%;
+	clear: both;
+	margin: 1%;
+}
+footer {
+	width: 100%;
+	height: 4%;
+	background-color: #d31e3d;
+	position: absolute;
+	margin-top: 78%;
+	color: #F9F2F2;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
